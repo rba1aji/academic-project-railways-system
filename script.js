@@ -11,7 +11,7 @@ if (window.innerWidth > 600) {
     document.getElementById("nav-bar").innerHTML = `
     <table class="nav-bar-table">
         <th>
-        <td style="width:40vw;"><h1>Indian Railways</h1></td>
+        <td style="width:50vw;"><h1>Indian Railways</h1></td>
         <td>Train Time Table</td>
         <td>Book Ticket</td>
         <td>Cancel Ticket</td>

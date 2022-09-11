@@ -1,21 +1,58 @@
-.nav-bar-table td{
+.nav-bar-table td {
     /* border: 2px solid black; */
-    width:15vw;
+    width: 12vw;
 }
-a{
+
+a {
     text-decoration: none;
 }
-.nav-bar-table h1{
+
+.nav-bar-table h1 {
     margin: 0;
 }
-nav{
+
+nav {
     background-color: lightgreen;
     padding: 5px;
 }
-#menu-item{
+
+#menu-item {
     background-color: lightgreen;
 }
-body{
+
+body {
     margin: 0;
-    background-color: lightyellow;
+    /* background-color: lightyellow; */
+}
+
+.search-trains {
+    width: 100vw;
+    /* border: 10px solid black; */
+}
+
+.search-trains td {
+    text-align: center;
+}
+
+/* .search-trains{
+} */
+
+.banner1 {
+    margin-top: 5vw;
+    width: 50vw;
+    padding: 20px;
+    text-align: center;
+    background: whitesmoke;
+    border: 5px dotted whitesmoke;
+    border-radius: 15PX;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button {
+    font-size: 20px;
+    background-color: lightgreen;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
 }

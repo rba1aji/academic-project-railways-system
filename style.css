@@ -32,13 +32,13 @@ body {
 
 .search-trains td {
     text-align: center;
+    padding: 5px;
 }
 
 /* .search-trains{
 } */
 
 .banner1 {
-    margin-top: 5vw;
     width: 50vw;
     padding: 20px;
     text-align: center;
@@ -47,6 +47,10 @@ body {
     border-radius: 15PX;
     margin-left: auto;
     margin-right: auto;
+}
+
+input{
+    width:85%;
 }
 
 button {

@@ -11,7 +11,7 @@ if (window.innerWidth > 600) {
     document.getElementById("nav-bar").innerHTML = `
     <table class="nav-bar-table">
         <th>
-        <td style="width:50vw;"><h1>Indian Railways</h1></td>
+        <td style="width:50vw;"><h1>&nbsp; 🇮🇳 &nbsp;&nbsp; Indian Railways</h1></td>
         <td>Train Time Table</td>
         <td>Book Ticket</td>
         <td>Cancel Ticket</td>
@@ -25,8 +25,8 @@ else {
     
     <table class="nav-bar-table">
         <tr>
-            <td style="width:80vw"><h1>Indian Railways</h1></td> 
-            <td style="width:10vw" id='menu' onclick="menuFun()" ><button><h1>&nbsp; = &nbsp;</h1></button></td>
+            <td style="width:80vw"><h1>🇮🇳 &nbsp; &nbsp;Indian Railways</h1></td> 
+            <td style="width:10vw" id='menu' onclick="menuFun()" ><button><h1> = </h1></button></td>
         </tr>
     </table>`;
 }

@@ -1,0 +1,21 @@
+.nav-bar-table td{
+    /* border: 2px solid black; */
+    width:15vw;
+}
+a{
+    text-decoration: none;
+}
+.nav-bar-table h1{
+    margin: 0;
+}
+nav{
+    background-color: lightgreen;
+    padding: 5px;
+}
+#menu-item{
+    background-color: lightgreen;
+}
+body{
+    margin: 0;
+    background-color: lightyellow;
+}

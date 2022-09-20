@@ -39,7 +39,7 @@ body {
 } */
 
 .banner1 {
-    width: 50vw;
+    width: 60vw;
     padding: 20px;
     text-align: center;
     background: whitesmoke;
@@ -49,8 +49,8 @@ body {
     margin-right: auto;
 }
 
-input{
-    width:85%;
+input {
+    width: 85%;
 }
 
 button {
@@ -59,4 +59,20 @@ button {
     border-radius: 10px;
     padding-left: 10px;
     padding-right: 10px;
+}
+
+.announcements {
+    display:block;
+    background: whitesmoke;
+    border: 5px dotted whitesmoke;
+    /* margin-left: auto;
+    margin-right: auto;      */
+}
+
+.announcements ul{
+    padding-left: 10vw;
+    padding-right: 10vw;
+}
+.announcements li{
+    padding: 10px;
 }

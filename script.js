@@ -12,7 +12,7 @@ if (window.innerWidth > 600) {
     <table class="nav-bar-table">
         <th>
         <td style="width:50vw;"><h1>&nbsp; 🇮🇳 &nbsp;&nbsp; Indian Railways</h1></td>
-        <td>Train Time Table</td>
+        <td>Train Timetable</td>
         <td>Book Ticket</td>
         <td>Cancel Ticket</td>
         <td>Live Tracking</td>
